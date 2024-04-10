@@ -24,7 +24,7 @@ This project was made to exploration data analysis on the Stack Overflow data su
 
 ## File Descriptions <a name="files"></a>
 
-There are 1 notebook available here to showcase work related to the above questions.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+There are 1 notebook available here to showcase work related to the above questions.  Markdown cells were used to assist in walking through the process for individual steps.  
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
